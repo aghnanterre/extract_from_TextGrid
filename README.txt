@@ -1,5 +1,7 @@
 
-Le programme extractionMots.py extrait les tours de parole des textgrids d'un corpus de transcriptions Praat (.Textgrid) qui contiennent les occurrences d'un "mot" (truc entre deux espaces) donné en argument dans la commande d'exécution de extractionMots.py
+Le programme extractionMots.py extrait les tours de parole des textgrids d'un corpus de transcriptions Praat (.Textgrid)
+qui contiennent les occurrences d'un "mot" (truc entre deux espaces) donné en argument dans la commande d'exécution de extractionMots.py
+Programme créé pour exploiter le corpus MPF (https://www.ortolang.fr/market/corpora/mpf) ; mais il peut s'appliquer à tout ensemble de fichiers Praat (Textgrid -s)
 
 1. PREREQUIS
 2. FONCTIONNEMENT
